@@ -1,2 +1,2 @@
 # lonate_project
-Lonate Platform Prject
+Lonate Platform Project
